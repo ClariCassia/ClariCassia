@@ -1,3 +1,10 @@
+Olá sou Clarissa de Cássia!!
+
+Sou estudante do curso Dev Qust
+
+💻 Minhas redes sociais
+
+
 <div>
   <a href="https://github.com/ClariCassia
 ">
