@@ -8,6 +8,7 @@ Sou estudante do curso Dev Qust
   <a href = "mailto:clari.cassia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/clarissa-de-c%C3%A1ssia-56219b217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+👩🏻‍💻 Ferramentas que estou estudando:
 
 <div>
   <a href="https://github.com/ClariCassia
