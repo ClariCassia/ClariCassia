@@ -26,6 +26,8 @@ Sou estudante do curso Dev Qust
 </div>
  
  <br>
+ 
+  GitHub Stats
   
 <div> 
  
