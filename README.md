@@ -3,7 +3,8 @@ Olá sou Clarissa de Cássia!!
 Sou estudante do curso Dev Qust
 
 💻 Minhas redes sociais:
- <a href="https://www.instagram.com/clari.cassia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+ <a href="https://www.instagram.com/clari.cassia/" target="_blank"><iframe src="https://giphy.com/embed/CbIM7u9TxvSs1KXwfD" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/casavio-casavioplus-campingcasavio-CbIM7u9TxvSs1KXwfD">via GIPHY</a></p></a>
  <a href="https://discord.gg/wM2DSuZjBK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:clari.cassia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/clarissa-de-c%C3%A1ssia-56219b217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
