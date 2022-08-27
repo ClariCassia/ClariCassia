@@ -24,12 +24,11 @@
 <img src="" alt="">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="">
 <img src="" alt="">
-
 </div>
-
+<br/>
 
    ## GitHub Stats:
-  
+  <br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClariCassia&show_icons=true&theme=outrun)
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClariCassia&theme=outrun)
