@@ -26,8 +26,7 @@ Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhec
  ## Ferramentas:
  <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></div>
-<div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt=""></div>
+<div style="display: inline-block;"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt=""></div>
 
 
   GitHub Stats
