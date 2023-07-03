@@ -1,6 +1,6 @@
 # Olá, sou Clarissa de Cássia 😊
 
-Busco ingressar na área de tecnologia e venho desenvolvendo competências com voltados ao desenvolvimento web aprimorando minhas habilidades em desenvolvimento web, aperfeiçoando meus conhecimentos HTML5 e CSS3. E estou aprendendo um mundo de possibilidades com Javascript, tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.
+Busco ingressar na área de tecnologia e venho desenvolvendo competências voltados ao desenvolvimento web aprimorando minhas habilidades, aperfeiçoando meus conhecimentos em HTML5 e CSS3. E estou aprendendo um mundo de possibilidades com Javascript, tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.
 
  Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento.
 
