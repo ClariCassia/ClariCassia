@@ -145,7 +145,7 @@
 <br/>
 <hr/>
 
-<img align="left" src="imagens/giphy.gif" height="495px" alt="Garota programando, trabalhando em seus projetos pessoais" />
+<img align="left" src="imagens/giphy.gif" height="395px" alt="Garota programando, trabalhando em seus projetos pessoais" />
 <table height="495px" align="right">
   <tr>
     <td>
