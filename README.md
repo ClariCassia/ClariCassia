@@ -145,8 +145,8 @@
 <br/>
 <hr/>
 
-<img align="left" src="imagens/giphy.gif" height="395px" alt="Garota programando, trabalhando em seus projetos pessoais" />
-<table height="495px" align="right">
+<img align="left" src="imagens/giphy.gif" height="295px" alt="Garota programando, trabalhando em seus projetos pessoais" />
+<table height="295px" align="right">
   <tr>
     <td>
     <a href="https://github.com/ClariCassia/Projeto-api-cartas-randon" target="_blank">
