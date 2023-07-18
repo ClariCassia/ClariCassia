@@ -184,7 +184,7 @@
 
 <br/>
 
-<img height="220px " src="https://luk4x-github-readme-stats.vercel.app/api?username=ClariCassia&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400"  width="100%" />
+<img height="220px " src="https://github-readme-stats.vercel.app/api?username=ClariCassia&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400"  width="100%" />
 
 <br/><br/>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-clariCassia&color=blueviolet&label=Visualizações+do perfil" alt="Contador acesso ao perfil" /> </p>
