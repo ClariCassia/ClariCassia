@@ -147,7 +147,7 @@
 <img align="center" src="imagens/principais projetos.png" width="100%" alt="Título da seção Contato" />
 <hr/>
 
-<img align="left" src="imagens/giphy.gif" height="395px" alt="Garota programando, trabalhando em seus projetos pessoais" />
+<img align="left" src="imagens/giphy.gif" height="355px" alt="Garota programando, trabalhando em seus projetos pessoais" />
 <table height="295px" align="right">
   <tr>
     <td>
