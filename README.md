@@ -192,7 +192,7 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-clariCassia&color=blueviolet&label=Visualizações+do perfil" alt="Contador acesso ao perfil" /> </p>
    <div>   
  
-  ![Snake animation](https://github.com/claricassia/claricassia/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ClariCassia/ClariCassia/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
