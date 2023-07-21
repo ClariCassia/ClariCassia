@@ -185,15 +185,12 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ClariCassia&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 <br/>
-
-<img height="220px " src="https://github-readme-stats.vercel.app/api?username=ClariCassia&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400"  width="100%" />
-
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClariCassia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div>    
 <br/><br/>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-clariCassia&color=blueviolet&label=Visualizações+do perfil" alt="Contador acesso ao perfil" /> </p>
-   <div>   
- 
-  ![Snake animation](https://github.com/ClariCassia/ClariCassia/blob/output/github-contribution-grid-snake.svg)
-
+   <div align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-ClariCassia&color=blueviolet&label=Visualizações+do perfil" alt="Contador acesso ao perfil" /> </div>
+   <div>    
 </div>
 
    
