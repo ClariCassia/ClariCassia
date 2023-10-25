@@ -1,15 +1,15 @@
+<h1 align="center">Olá, sou Clarissa de Cássia<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <a href="https://github.com/ClariCassia" alt="Repositório do Banner Clarissa ">
-  <img align="center" width="100%" alt="Banner Animado do Github Clarissa" src="imagens/boas vindas.gif">
+  <img align="center" width="100%" alt="Banner Animado do Github Clarissa" src="imagens/banner.gif">
 </a>
 
-<br/><br/>
-<img align="center" src="imagens/Sobre mim.png" width="100%" alt="Título da seção Sobre Mim" />
-<hr/>
-
-<br/>
+<div align="center">
+  
+# Sobre Mim
   <p>Atuei na área da saúde como técnica de enfermagem por 8 anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e desenvolvimento de Sistemas onde tenho confirmado a cada dia que tomei a melhor decisão</p>
 
-  <p>Atualmente faço parte do curso do na <a href="https://github.com/devemdobro" target="_blank">Dev Quest</a> e tambem faço cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, e <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a> <p>Busco ingressar na área de tecnologia e venho desenvolvendo competências com voltados ao desenvolvimento web que abrange <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Javascript</a>, e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
+<p>Atualmente faço parte do curso do na <a href="https://github.com/devemdobro" target="_blank">Dev Quest</a> e tambem faço cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, e <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a>. Busco ingressar na área de tecnologia e venho desenvolvendo competências com voltados ao desenvolvimento web que abrange <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Javascript</a>, e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
      <p>  
     <details>
       <summary>Curiosidades sobre mim</summary>
@@ -26,126 +26,13 @@
       </ul>
     </details>
 
- <p align="center" > <b> Ouvindo Atualmente no Spotify </b> </p>
- 
-<hr/>
- 
-<br/>
-<div align="center">
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vajeiszksx0jbvwmk0ewh6x6c&cover_image=true&theme=novatorem&show_offline=true&background_color=440e53&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vajeiszksx0jbvwmk0ewh6x6c&redirect=true)
-</div>
-
-<img align="center" src="imagens/principais tecnologias.png" width="100%" alt="Título da seção Minha Stack" />
-<hr/>
-
-<table align="center" height="185px">
-<tr>
-   <td >
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br/>
-        <sub>
-          <b>
-            <pre>HTML5</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br/>
-        <sub>
-          <b>
-            <pre>CSS3</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=js" width="55px" alt="Javascript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Javascript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" width="55px" alt="Github icon"/><br/>
-        <sub>
-          <b>
-            <pre>GitHub</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-</table>
-
-<img align="center" src="imagens/principais ferramentas.png" width="100%" alt="Título da seção Minha Stack" />
-<hr/>
-<table align="center" height="185px">
- <tr>
-    <td align="center">
-      <a href="https://git-scm.com/downloads">
-        <img src="https://skillicons.dev/icons?i=git" width="55px" alt="bash icon"/><br/>
-        <sub>
-          <b>
-            <pre>Terminal</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="55px" alt="visual studio code icon"/><br/>
-        <sub>
-          <b>
-            <pre>VSCode</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.figma.com/ui-design-tool/">
-        <img src="https://skillicons.dev/icons?i=figma" width="55px" alt="Figma icon"/><br/>
-        <sub>
-          <b>
-            <pre>Figma</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.notion.so/pt-br">
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" width="55px" alt="Notion icon"/><br/>
-        <sub>
-          <b>
-            <pre>Notion</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  </table>
-
-  <img align="center" src="imagens/contate-me.png" width="100%" alt="Título da seção Contato" />
-<hr/>
+  </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-
-<br/><br/>
-
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarissa-c%C3%A1ssia-6b8547242/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5547988271348/?t=Ol%C3%A1) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://clari.cassia@gmail.com) [![discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://clari.cassia@gmail.com) 
- 
-</div>
-
-<br/>
-
-<img align="center" src="imagens/principais projetos.png" width="100%" alt="Título da seção Contato" />
-<hr/>
+  
+# Principais Projetos
+<br><br>
 
 <img align="left" src="imagens/giphy.gif" height="355px" alt="Garota programando, trabalhando em seus projetos pessoais" />
 <table height="355px" align="right">
@@ -183,13 +70,26 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Projeto-Toy-Story&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
-  </tr>
- 
+  </tr> 
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img align="center" src="icones/activity.png" width="100%" alt="Título da seção Atividade" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ClariCassia&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<div align="center">
+
+# Tecnologias que utilizo
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue)
+  
+
+
+# Contate-me
+
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarissa-c%C3%A1ssia-6b8547242/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5547988271348/?t=Ol%C3%A1) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://clari.cassia@gmail.com) [![discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://clari.cassia@gmail.com) 
+
+ </div>  
+ </div>  
+
+
 
 <br/>
  <div align="center">
@@ -201,4 +101,6 @@
 </div>
 
    
- 
+
+
+
