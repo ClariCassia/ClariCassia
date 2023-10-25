@@ -149,29 +149,27 @@
 
 <img align="left" src="imagens/giphy.gif" height="355px" alt="Garota programando, trabalhando em seus projetos pessoais" />
 <table height="355px" align="right">
-  <tr>
+   <tr>
     <td>
-    <a href="https://github.com/ClariCassia/Projeto-Github-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Projeto-Github-API
-Public&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-    </a>
+     <a href="https://github.com/ClariCassia/Projeto-Github-API" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Projeto-Github-API&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      </a>    
     </td>
   </tr>
-  
   <tr>
     <td>
     <a href="https://github.com/ClariCassia/Projeto-api-cartas-randon" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Projeto-api-cartas-randon&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
-  </tr>
+  </tr>  
   <tr>
     <td>
      <a href="https://github.com/ClariCassia/Gerador-de-conselhos" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Gerador-de-conselhos&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
       </a>    
     </td>
-  </tr>
+  </tr>   
   <tr>
     <td>
    <a href="https://github.com/ClariCassia/Formulario-com-validacao-JS" target="_blank">
