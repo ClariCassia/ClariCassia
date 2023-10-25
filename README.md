@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Clarissa de Cássia<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://github.com/ClariCassia" alt="Repositório do Banner Clarissa ">
-  <img align="center" width="100%" alt="Banner Animado do Github Clarissa" src="imagens/banner.gif">
+  <img align="center" width="100%" alt="Banner Animado do Github Clarissa" src="imagens/Banner  (1).gif">
 </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
