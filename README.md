@@ -8,7 +8,7 @@
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> <h1> Sobre Mim </h1>
   <p>Atuei na área da saúde como técnica de enfermagem por 8 anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e desenvolvimento de Sistemas onde tenho confirmado a cada dia que tomei a melhor decisão</p>
 
-<p>Atualmente faço parte do curso do na <a href="https://github.com/devemdobro" target="_blank">Dev Quest</a> e tambem faço cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, e <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a>. Busco ingressar na área de tecnologia e venho desenvolvendo competências com voltados ao desenvolvimento web que abrange <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Javascript</a>, e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
+<p>Atualmente faço parte do curso do na <a href="https://github.com/devemdobro" target="_blank">Dev Quest</a> e tambem faço cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, e <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a>. Busco ingressar na área de tecnologia e venho desenvolvendo competências com voltados ao desenvolvimento web que abrange <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> CSS</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> Javascript</a>, <a href="https://react.dev" target="_blank"> React</a> e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
      <p>  
     <details>
       <summary>Curiosidades sobre mim</summary>
@@ -91,14 +91,7 @@
 
 
 
-<br/>
- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClariCassia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<div>    
-<br/><br/>
-   <div align="center"> <img src="https://komarev.com/ghpvc/?username=your-github-ClariCassia&color=blueviolet&label=Visualizações+do perfil" alt="Contador acesso ao perfil" /> </div>
-   <div>    
-</div>
+
 
    
 
