@@ -8,7 +8,7 @@
 <h1> Sobre Mim </h1>
   <p>Atuei na área da saúde como técnica de enfermagem por 8 anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e desenvolvimento de Sistemas onde tenho confirmado a cada dia que tomei a melhor decisão</p>
 
-<p>Atualmente faço parte do curso do na <a href="https://github.com/devemdobro" target="_blank">Dev Quest</a> e tambem faço cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, e <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a>. Busco ingressar na área de tecnologia e venho desenvolvendo competências com voltados ao desenvolvimento web que abrange <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> CSS</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> Javascript</a>, <a href="https://react.dev" target="_blank"> React</a> e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
+<p>Atualmente faço parte do curso do na <a href="https://github.com/devemdobro" target="_blank">Dev Quest</a> e tambem faço cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, e <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a>. Busco ingressar na área de tecnologia e venho desenvolvendo competências com voltados ao desenvolvimento web que abrange <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> CSS</a> ,<a href="https://tailwindcss.com/" target="_blank"> Tailwind </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> Javascript</a>, <a href="https://react.dev" target="_blank"> React</a> e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
      <p>  
     <details>
       <summary>Curiosidades sobre mim</summary>
@@ -35,6 +35,13 @@
 
 <img align="left" src="imagens/avatar-clari.jpeg" height="355px" alt="Garota programando, trabalhando em seus projetos pessoais" />
 <table height="355px" align="right">
+  <tr>
+    <td>
+     <a href="https://github.com/ClariCassia/Calculadora-Simples-React.js" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Calculadora-Simples-React.js&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      </a>    
+    </td>
+  </tr>
    <tr>
     <td>
      <a href="https://github.com/ClariCassia/Projeto-Github-API" target="_blank">
@@ -78,7 +85,11 @@
 
 # Tecnologias que utilizo
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
