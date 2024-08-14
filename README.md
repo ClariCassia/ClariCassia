@@ -35,6 +35,27 @@
 
 <img align="left" src="imagens/avatar-clari.jpeg" height="355px" alt="Garota programando, trabalhando em seus projetos pessoais" />
 <table height="355px" align="right">
+    <tr>
+    <td>
+     <a href="https://github.com/ClariCassia/Pokedex" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Pokedex&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      </a>    
+    </td>
+  </tr>
+    <tr>
+    <td>
+     <a href="https://github.com/ClariCassia/Fraseando-Devs" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Fraseando-Devs&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      </a>    
+    </td>
+  </tr>
+   <tr>
+    <td>
+     <a href="https://github.com/ClariCassia/Landing-Page-Uber-TailwindCss" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Landing-Page-Uber-TailwindCss&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      </a>    
+    </td>
+  </tr>
    <tr>
     <td>
      <a href="https://github.com/ClariCassia/Lancamento-Tenis-Nike" target="_blank">
