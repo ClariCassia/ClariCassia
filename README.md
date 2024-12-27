@@ -14,7 +14,7 @@
       <summary>Curiosidades sobre mim</summary>
       <ul>
         <li> Sou natural de <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos" target="_blank">São Jose dos Campos</a>, mas atualmente, moro em <a href="https://www.visitejoinville.com.br/" target="_blank">Joinville-SC</a> </li>  
-        <li>Adoro ler, e recentemente tenho iniciado no mundo da corrida, onde venho a cada dia mais me encontando.</li>
+        <li>Adoro ler, e recentemente tenho iniciado no mundo da corrida, onde venho a cada dia mais me encontrando.</li>
         <li> Estou lendo atualmente <a href="https://www.amazon.com.br/Ainda-estou-Marcelo-Rubens-Paiva/dp/8579624169/ref=asc_df_8579624169/?tag=googleshopp00-20&linkCode=df0&hvadid=709883381641&hvpos=&hvnetw=g&hvrand=16876680679818978738&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9102346&hvtargid=pla-809656575500&psc=1&mcid=e7ca6ddb55dc37478cde4ab06fb3b12f&gad_source=1" target="_blank">Ainda estou aqui</a></li>
         <li>Adoro ouvir podcasts, os principais que escuto são: <a href="https://open.spotify.com/show/2kCrTjsGn431qiGpl9quAl?si=2cd20d63599c4668" target="_blank">Dev em dobro.</a> ,<a href="https://open.spotify.com/show/14jalMOh1Jr77eTRUdN6X9?si=d50fe5c8b5da4345" target="_blank"> Inteligência Ltda.</a> , <a href="https://open.spotify.com/show/3V5LBozjo4vNg2oJoA4Wb2?si=cd2d2dfc6f844a55" target="_blank"> Flow</a>, 
         <a href="https://open.spotify.com/show/2XyVyDbnjlhojU0qsdR3zq?si=a92e3439f1eb4bef" target="_blank"> Saia Justa</a>,
