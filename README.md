@@ -39,10 +39,30 @@ Atualmente estou no 2º semestre do curso de Análise e Desenvolvimento de Siste
 
 <img align="left" src="imagens/avatar-clari.jpeg" height="355px" alt="Garota programando, trabalhando em seus projetos pessoais" />
 <table height="355px" align="right">
-    <tr>
+   <tr>
+    <td>
+     <a href="https://github.com/ClariCassia/minimal-api-csharp-agendacontatos" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=minimal-api-csharp-agendacontatos&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      </a>    
+    </td>
+  </tr>
+     <tr>
+    <td>
+     <a href="https://github.com/ClariCassia/agenda-contatos-vue" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=agenda-contatos-vue&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      </a>    
+    </td>
+  </tr>
+  <tr>
     <td>
      <a href="https://github.com/ClariCassia/Pokedex" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Pokedex&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      </a>    
+    </td>
+    <tr>
+    <td>
+     <a href="https://github.com/ClariCassia/Player-vs-Monster" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Player-vs-Monster&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
       </a>    
     </td>
   </tr>
