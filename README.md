@@ -5,15 +5,37 @@
 
 <div align="center">
 <br>
-<h1> Sobre Mim </h1>
-  <p>Atuei na área da saúde como técnica de enfermagem por 8 anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e desenvolvimento de Sistemas onde tenho confirmado a cada dia que tomei a melhor decisão</p>
+
+  <h1> Sobre Mim </h1>
+<p>
+  Atuei na área da saúde como técnica de enfermagem por 8 anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e Desenvolvimento de Sistemas, onde tenho confirmado a cada dia que tomei a melhor decisão.
+</p>
 
 <p>
-Atualmente estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na <a href="https://www.unisociesc.com.br/" target="_blank">Unisociesc</a>. Faço parte de formações na Alura onde estou estudando Vue.js 3 , C# e me aprofundado em Banco de dados. Me formei no Curso de Desenvolvimento Web Front End pelo <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro </a>, e já realizei cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, e <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a>.
- 
-  
- Busco ingressar na área de tecnologia e venho desenvolvendo competências voltadas ao desenvolvimento full stack   em tecnologias como <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">C#</a> <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16" target="_blank">SQL</a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> CSS</a> ,<a href="https://tailwindcss.com/" target="_blank"> Tailwind </a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> Javascript</a>, <a href="https://www.typescriptlang.org/" target="_blank"> TypeScript</a>, <a href="https://react.dev" target="_blank"> React</a>, <a href="https://react.dev](https://vuejs.org/)" target="_blank"> Vue.Js</a> e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
-     <p>  
+  Atualmente, estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na 
+  <a href="https://www.unisociesc.com.br/" target="_blank">Unisociesc</a> e trabalho como estagiária de desenvolvimento web na empresa <a href="https://www.linkedin.com/company/eslabtech/" target="_blank">Eslab</a>. 
+  Faço parte de formações na Alura, onde estou estudando Vue.js 3, C# e me aprofundando em Banco de Dados. 
+  Além disso, me formei no Curso de Desenvolvimento Web Front End pelo 
+  <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro</a> e já realizei cursos complementares na 
+  <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, 
+  <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, 
+  <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a> e 
+  <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a>.
+</p>
+
+<p>
+  Venho desenvolvendo competências voltadas ao desenvolvimento full stack em tecnologias como 
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">C#</a>, 
+  <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16" target="_blank">SQL</a>, 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a>, 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a>, 
+  <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">JavaScript</a>, 
+  <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>, 
+  <a href="https://react.dev" target="_blank">React</a> e 
+  <a href="https://vuejs.org/" target="_blank">Vue.js</a>. 
+  Tenho um grande interesse em aprendizado contínuo e estou sempre explorando novas tecnologias.
+</p>
     <details>
       <summary>Curiosidades sobre mim</summary>
       <ul>
