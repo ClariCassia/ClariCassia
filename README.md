@@ -13,8 +13,10 @@
 
 <p>
   Atualmente, estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na 
-  <a href="https://www.unisociesc.com.br/" target="_blank">Unisociesc</a> e trabalho como estagiária de desenvolvimento web na empresa <a href="https://www.linkedin.com/company/eslabtech/" target="_blank">Eslab</a>. 
-  Faço parte de formações na Alura, onde estou estudando Vue.js 3, C# e me aprofundando em Banco de Dados. 
+  <a href="https://www.unisociesc.com.br/" target="_blank">Unisociesc</a> e e atuo simultaneamente como estagiária nas empresas Eslab e TOTVS. Na  <a href="https://www.linkedin.com/company/eslabtech/" target="_blank">Eslab</a>, colaboro em projetos com foco em Vue.js e desenvolvimento full stack. Já na <a href="https://www.totvs.com/" target="_blank">TOTVS</a>, contribuo na construção de soluções corporativas em larga escala com Angular, atuando diretamente no desenvolvimento front end. 
+  
+  Paralelamente, venho expandindo meus conhecimentos por meio de formações na Alura e Udemy, sempre com foco em tecnologias modernas e práticas do mercado. Possuo experiência prática com Vue.js 3, Angular 19, C# com programação orientada a objetos, SQL Server, JavaScript com OOP, HTML, CSS e Tailwind CSS. Compreendo a arquitetura da web e o funcionamento do protocolo HTTP, aplicando conceitos como consumo de APIs, componentização, responsividade e boas práticas de desenvolvimento em projetos reais e colaborativos. 
+  
   Além disso, me formei no Curso de Desenvolvimento Web Front End pelo 
   <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro</a> e já realizei cursos complementares na 
   <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, 
@@ -34,6 +36,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>, 
   <a href="https://react.dev" target="_blank">React</a> e 
   <a href="https://vuejs.org/" target="_blank">Vue.js</a>. 
+  <a href="https://angular.dev/" target="_blank">Angular</a>. 
   Tenho um grande interesse em aprendizado contínuo e estou sempre explorando novas tecnologias.
 </p>
     <details>
