@@ -8,7 +8,7 @@
 
   <h1> Sobre Mim </h1>
 <p>
-  Atuei na área da saúde como técnica de enfermagem por 8 anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e Desenvolvimento de Sistemas, onde tenho confirmado a cada dia que tomei a melhor decisão.
+  Atuei na área da saúde como técnica de enfermagem por anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e Desenvolvimento de Sistemas, onde tenho confirmado a cada dia que tomei a melhor decisão.
 </p>
 
 <p>
