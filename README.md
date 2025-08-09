@@ -12,8 +12,8 @@
 </p>
 
 <p>
-  Atualmente, estou no 2º semestre do curso de Análise e Desenvolvimento de Sistemas na 
-  <a href="https://www.unisociesc.com.br/" target="_blank">Unisociesc</a> e e atuo simultaneamente como estagiária nas empresas Eslab e TOTVS. Na  <a href="https://www.linkedin.com/company/eslabtech/" target="_blank">Eslab</a>, colaboro em projetos com foco em Vue.js e desenvolvimento full stack. Já na <a href="https://www.totvs.com/" target="_blank">TOTVS</a>, contribuo na construção de soluções corporativas em larga escala com Angular, atuando diretamente no desenvolvimento front end. 
+  Atualmente, estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas na 
+  <a href="https://www.unisociesc.com.br/" target="_blank">Unisociesc</a>, e trabalho com desenvolvimento full stack na empresa <a href="https://www.linkedin.com/company/eslabtech/" target="_blank"> Eslab</a>. Onde colaboro em projetos com foco em Vue.js, Prime Vue, .net Framework, C# e Postgresql. 
   
   Paralelamente, venho expandindo meus conhecimentos por meio de formações na Alura e Udemy, sempre com foco em tecnologias modernas e práticas do mercado. Possuo experiência prática com Vue.js 3, Angular 19, C# com programação orientada a objetos, SQL Server, JavaScript com OOP, HTML, CSS e Tailwind CSS. Compreendo a arquitetura da web e o funcionamento do protocolo HTTP, aplicando conceitos como consumo de APIs, componentização, responsividade e boas práticas de desenvolvimento em projetos reais e colaborativos. 
   
