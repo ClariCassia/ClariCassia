@@ -68,15 +68,16 @@ Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue
 <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3" target="_blank"><img src="https://skillicons.dev/icons?i=css"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js"></a>
-
-
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://skillicons.dev/icons?i=ts"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://vuejs.org/" title="Vue.js" target="_blank"><img src="https://skillicons.dev/icons?i=vue"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pinia.vuejs.org/" title="Pinia" target="_blank"><img src="https://skillicons.dev/icons?i=pinia"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://nuxt.com/" title="Nuxt.js" target="_blank"><img src="https://skillicons.dev/icons?i=nuxt"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://react.dev/" title="React" target="_blank"><img src="https://skillicons.dev/icons?i=react"></a>
+<a href="https://pinia.vuejs.org/" title="Pinia" target="_blank"><img src="https://skillicons.dev/icons?i=pinia"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://primevue.org/" title="Prime.Vue" target="_blank"><img width="52" height="50" alt="image" src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primevue-logo-1.png?fit=263%2C300&ssl=1"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://primevue.org/" title="Prime.Vue" target="_blank"><img width="52" height="50" alt="image" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://react.dev/" title="React" target="_blank"><img  src="https://skillicons.dev/icons?i=react"></a>
 
 
 <a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="https://skillicons.dev/icons?i=vite"></a> &nbsp;&nbsp;&nbsp;&nbsp;
