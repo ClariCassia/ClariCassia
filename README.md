@@ -6,7 +6,10 @@
 <div align="center">
 <br>
 
-  <h1> Sobre Mim </h1>
+<p align="center"><strong><font size="6">Sobre Mim</font></strong></p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <br>  <br>
 <p>
   Atuei na área da saúde como técnica de enfermagem por anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e Desenvolvimento de Sistemas, onde tenho confirmado a cada dia que tomei a melhor decisão.
 </p>
@@ -23,132 +26,90 @@ Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue
 
 <div align="center">
   
-# Principais Projetos
-<br><br>
+<p align="center"><strong><font size="6">Principais Projetos</font></strong></p>
 
-<img align="left" src="imagens/avatar-clari.jpeg" height="355px" alt="Garota programando, trabalhando em seus projetos pessoais" />
-<table height="355px" align="right">
-   <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/minimal-api-csharp-agendacontatos" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=minimal-api-csharp-agendacontatos&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
-    </td>
-  </tr>
-     <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/agenda-contatos-vue" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=agenda-contatos-vue&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
-    </td>
-  </tr>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <br>  <br>
+
+<table border="0">
   <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/Pokedex" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Pokedex&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
+    <td width="300" valign="top">
+      <img src="imagens/giphy.gif" width="300" height="300" style="border-radius: 10px;" alt="Avatar Clarissa">
     </td>
-    <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/Player-vs-Monster" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Player-vs-Monster&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
-    </td>
-  </tr>
-    <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/Fraseando-Devs" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Fraseando-Devs&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
-    </td>
-  </tr>
-   <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/Landing-Page-Uber-TailwindCss" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Landing-Page-Uber-TailwindCss&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
+    <td valign="top" style="padding-left: 20px;">
+      <br>
+       👾 <strong><a href="https://github.com/ClariCassia/projeto-mvp-daisyui-api-rick-and-morty">projeto-mvp-daisyui-api-rick-and-morty</a></strong><br>
+      <code>Vue.js</code>  <code>Nuxt</code> <code>CSS</code> <code>DaisyUi</code>
+      <br><br>
+      🚀 <strong><a href="https://github.com/ClariCassia/minimal-api-csharp-agendacontatos">Agenda de Contatos (Minimal API)</a></strong><br>
+      <code>C#</code> <code>.NET</code> <code>EF Core</code> <code>Postgres</code>
+      <br><br>
+      💻 <strong><a href="https://github.com/ClariCassia/agenda-contatos-vue">Agenda de Contatos - Vue</a></strong><br>
+      <code>Vue 3</code> <code>TypeScript</code> <code>CSS</code>
+      <br><br>
+      🐉 <strong><a href="https://github.com/ClariCassia/todoList-vue-Eslab">TodoList-vue</a></strong><br>
+      <code>Vue</code> <code>JavaScript</code> <code>Tailwind CSS</code>
+      <br><br>
     </td>
   </tr>
-   <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/Lancamento-Tenis-Nike" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Lancamento-Tenis-Nike&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
-    </td>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/Calculadora-Simples-React.js" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Calculadora-Simples-React.js&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
-    </td>
-  </tr>
-   <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/Projeto-Github-API" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Projeto-Github-API&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/ClariCassia/Projeto-api-cartas-randon" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Projeto-api-cartas-randon&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-    </a>
-    </td>
-  </tr>  
-  <tr>
-    <td>
-     <a href="https://github.com/ClariCassia/Gerador-de-conselhos" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Gerador-de-conselhos&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-      </a>    
-    </td>
-  </tr>   
-  <tr>
-    <td>
-   <a href="https://github.com/ClariCassia/Formulario-com-validacao-JS" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=ClariCassia&repo=Formulario-com-validacao-JS&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/ClariCassia/Projeto-Toy-Story" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ClariCassia&repo=Projeto-Toy-Story&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
-    </a>
-    </td>
-  </tr> 
 </table>
+<p align="center">
+  <strong>✨ Acesse outros projetos interessantes visitando meus <a href="https://github.com/ClariCassia?tab=repositories">repositórios completos</a>!</strong>
+</p>
+<br>  <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center " gap="3px">
+
+<p align="center"><strong><font size="6">Tecnologias que utilizo</font></strong></p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br>  <br>
+  <br> <br>
 
 <div align="center">
 
-# Tecnologias que utilizo
+<div align="center">
+
+<a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank"><img src="https://skillicons.dev/icons?i=cs"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/" title=".NET" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3" target="_blank"><img src="https://skillicons.dev/icons?i=css"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js"></a>
 
 
-![C#](https://img.shields.io/badge/C%23-SHARP-%236A1B9A.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-SERVER.svg?style=for-the-badge&logo=c-sharp&logoColor=white?logoColor=%2364B5F6&)
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Css](https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) 
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![DiscordJS](https://img.shields.io/badge/discord.js-%232C3454.svg?style=for-the-badge&logo=Discord&logoColor=Blue)
+<a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://skillicons.dev/icons?i=ts"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vuejs.org/" title="Vue.js" target="_blank"><img src="https://skillicons.dev/icons?i=vue"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://pinia.vuejs.org/" title="Pinia" target="_blank"><img src="https://skillicons.dev/icons?i=pinia"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://nuxt.com/" title="Nuxt.js" target="_blank"><img src="https://skillicons.dev/icons?i=nuxt"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://react.dev/" title="React" target="_blank"><img src="https://skillicons.dev/icons?i=react"></a>
+
+
+<a href="https://vitejs.dev/" title="Vite" target="_blank"><img src="https://skillicons.dev/icons?i=vite"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://skillicons.dev/icons?i=git"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" title="GitHub" target="_blank"><img src="https://skillicons.dev/icons?i=github"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" title="VS Code" target="_blank"><img src="https://skillicons.dev/icons?i=vscode"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.figma.com/" title="Figma" target="_blank"><img src="https://skillicons.dev/icons?i=figma"></a>
+
+</div>
+</div>
+
+</div>
+</div>
+  <br> <br>
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-# Contate-me
+
+
+<p align="center"><strong><font size="6">Contate-me</font></strong></p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br> <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarissa-cassia-dev-full-stack/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5547992268325/?t=Ol%C3%A1) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://clari.cassia@gmail.com) [![discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/clari.cassia)
 
