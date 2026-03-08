@@ -17,45 +17,9 @@
   
 Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue Expert e Udemy, sempre focada em tecnologias atuais e evolução contínua como desenvolvedora.
   
-  Além disso, me formei no Curso de Desenvolvimento Web Front End pelo 
-  <a href="https://github.com/devemdobro" target="_blank">Dev em Dobro</a> e já realizei cursos complementares na 
-  <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, 
-  <a href="https://estudonauta.com" target="_blank">Estudonauta</a>, 
-  <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a> e 
-  <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy</a>.
-</p>
-
-<p>
-  Venho desenvolvendo competências voltadas ao desenvolvimento full stack em tecnologias como 
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">C#</a>, 
-  <a href="https://learn.microsoft.com/pt-br/sql/?view=sql-server-ver16" target="_blank">SQL</a>, 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a>, 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a>, 
-  <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">JavaScript</a>, 
-  <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>, 
-  <a href="https://react.dev" target="_blank">React</a> e 
-  <a href="https://vuejs.org/" target="_blank">Vue.js</a>. 
-  <a href="https://angular.dev/" target="_blank">Angular</a>. 
-  Tenho um grande interesse em aprendizado contínuo e estou sempre explorando novas tecnologias.
-</p>
-    <details>
-      <summary>Curiosidades sobre mim</summary>
-      <ul>
-        <li> Sou natural de <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos" target="_blank">São Jose dos Campos</a>, mas atualmente, moro em <a href="https://www.visitejoinville.com.br/" target="_blank">Joinville-SC</a> </li>  
-        <li>Adoro ler, e recentemente tenho iniciado no mundo da corrida, onde venho a cada dia mais me encontrando.</li>
-        <li> Estou lendo atualmente <a href="https://intrinseca.com.br/livro/tres/" target="_blank">Três da autora Valérie Perrin</a></li>
-        <li>Adoro ouvir podcasts, os principais que escuto são: <a href="https://open.spotify.com/show/2kCrTjsGn431qiGpl9quAl?si=2cd20d63599c4668" target="_blank">Dev em dobro.</a> ,<a href="https://open.spotify.com/show/14jalMOh1Jr77eTRUdN6X9?si=d50fe5c8b5da4345" target="_blank"> Inteligência Ltda.</a> , <a href="https://open.spotify.com/show/3V5LBozjo4vNg2oJoA4Wb2?si=cd2d2dfc6f844a55" target="_blank"> Flow</a>, 
-        <a href="https://open.spotify.com/show/2XyVyDbnjlhojU0qsdR3zq?si=a92e3439f1eb4bef" target="_blank"> Saia Justa</a>,
-        <a href="https://open.spotify.com/show/6JdH6H6lZGV0lP2uTVjdfw?si=ab31b10b86bb40e8" target="_blank"> Papo de Segunda</a>
-        </li>
-         <li>Amo estar com meu esposo e filhos </li>
-        <img src="imagens/familia.jpeg" width="165px" alt="HTML5 icon"/>
-      </ul>
-    </details>
+   <br><br>
 
   </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
