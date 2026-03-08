@@ -6,10 +6,8 @@
 <div align="center">
 <br>
 
-<p align="center"><strong><font size="6">Sobre Mim</font></strong></p>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    <br>  <br>
+<h2>Sobre Mim</h1>
+<br> 
 <p>
   Atuei na área da saúde como técnica de enfermagem por anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e Desenvolvimento de Sistemas, onde tenho confirmado a cada dia que tomei a melhor decisão.
 </p>
@@ -26,10 +24,8 @@ Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue
 
 <div align="center">
   
-<p align="center"><strong><font size="6">Principais Projetos</font></strong></p>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    <br>  <br>
+<h2>Principais Projetos </h1>
+<br> 
 
 <table border="0">
   <tr>
@@ -56,15 +52,12 @@ Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue
 <p align="center">
   <strong>✨ Acesse outros projetos interessantes visitando meus <a href="https://github.com/ClariCassia?tab=repositories">repositórios completos</a>!</strong>
 </p>
-<br>  <br>
+<br> 
 
 <div align="center " gap="3px">
-
-<p align="center"><strong><font size="6">Tecnologias que utilizo</font></strong></p>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br>  <br>
-  <br> <br>
+    
+<h2>Tecnologias que utilizo</h1>
+  <br>  
 
 <div align="center">
 
@@ -100,16 +93,11 @@ Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue
 </div>
   <br> <br>
 
-
-
 <div align="center">
 
+<h2>Contate-me</h1>
 
-
-<p align="center"><strong><font size="6">Contate-me</font></strong></p>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br> <br>
+  <br> 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarissa-cassia-dev-full-stack/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5547992268325/?t=Ol%C3%A1) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://clari.cassia@gmail.com) [![discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/clari.cassia)
 
