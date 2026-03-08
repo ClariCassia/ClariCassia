@@ -76,7 +76,7 @@ Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue
 <a href="https://pinia.vuejs.org/" title="Pinia" target="_blank"><img src="https://skillicons.dev/icons?i=pinia"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://primevue.org/" title="Prime.Vue" target="_blank"><img width="52" height="50" alt="image" src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primevue-logo-1.png?fit=263%2C300&ssl=1"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://primevue.org/" title="Prime.Vue" target="_blank"><img width="52" height="50" alt="image" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://daisyui.com/" title="DaisyUI" target="_blank"><img width="52" height="50" alt="image" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://react.dev/" title="React" target="_blank"><img  src="https://skillicons.dev/icons?i=react"></a>
 
 
