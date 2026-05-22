@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  Atualmente, estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas na 
+  Atualmente, estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas na 
   <a href="https://www.unisociesc.com.br/" target="_blank">Unisociesc</a>, e trabalho com desenvolvimento full stack na empresa <a href="https://www.linkedin.com/company/eslabtech/" target="_blank"> Eslab</a>. Onde colaboro emp projetos voltados a gestão educacional com foco em Vue.js 3 e Nuxt, além de desenvolvimento full stack com C# (.NET) e banco de dados PostgreSQL. No frontend, aplico componentização, consumo de APIs REST, organização modular e gerenciamento de estado com Pinia. Também utilizo Tailwind CSS, e PrimeVue para construção de interfaces responsivas e organizadas. Compreendendo os fundamentos da arquitetura web, o funcionamento do protocolo HTTP e boas práticas de desenvolvimento colaborativo.Utilizando Git para versionamento de código, trabalhando com fluxo de branches e commits organizados.
   
 Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue Expert e Udemy, sempre focada em tecnologias atuais e evolução contínua como desenvolvedora.
