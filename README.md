@@ -80,6 +80,9 @@
 
 <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank"><img src="https://skillicons.dev/icons?i=cs"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/" title=".NET" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/pt-br/sql-server" title="SQL Server" target="_blank"><img width="52" height="50" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="border-radius: 10px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/pt-br/ef/core/" target="_blank"><img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt="EF Core"></a>
+<a href="https://github.com/DapperLib/Dapper" title="Dapper" target="_blank"><img width="52" height="50" alt="Dapper" src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" style="border-radius: 10px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3" target="_blank"><img src="https://skillicons.dev/icons?i=css"></a> &nbsp;&nbsp;&nbsp;&nbsp;
