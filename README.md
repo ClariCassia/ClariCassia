@@ -9,50 +9,65 @@
 <h2>Sobre Mim</h1>
 <br> 
 <p>
-  Atuei na área da saúde como técnica de enfermagem por anos, e em 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Análise e Desenvolvimento de Sistemas, onde tenho confirmado a cada dia que tomei a melhor decisão.
+  Atuei por 8 anos na área da saúde como Técnica de Enfermagem e, em 2022, decidi transformar minha paixão por tecnologia em profissão. Essa vivência me conferiu um <strong>senso de urgência excepcional, inteligência emocional sob pressão e foco na resolução de problemas críticos</strong> — habilidades que hoje aplico diretamente na criação de produtos digitais estáveis, escaláveis e centrados no usuário.
 </p>
 
 <p>
-  Atualmente, estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas na 
-  <a href="https://www.unisociesc.com.br/" target="_blank">Unisociesc</a>, e trabalho com desenvolvimento full stack na empresa <a href="https://www.linkedin.com/company/eslabtech/" target="_blank"> Eslab</a>. Onde colaboro emp projetos voltados a gestão educacional com foco em Vue.js 3 e Nuxt, além de desenvolvimento full stack com C# (.NET) e banco de dados PostgreSQL. No frontend, aplico componentização, consumo de APIs REST, organização modular e gerenciamento de estado com Pinia. Também utilizo Tailwind CSS, e PrimeVue para construção de interfaces responsivas e organizadas. Compreendendo os fundamentos da arquitetura web, o funcionamento do protocolo HTTP e boas práticas de desenvolvimento colaborativo.Utilizando Git para versionamento de código, trabalhando com fluxo de branches e commits organizados.
-  
-Paralelamente, sigo me especializando por meio de cursos na Alura, Balta.io, Vue Expert e Udemy, sempre focada em tecnologias atuais e evolução contínua como desenvolvedora.
+  Atualmente, curso o 5º semestre de Análise e Desenvolvimento de Sistemas (Unisociesc) e, em meu último vínculo, atuei como <strong>Desenvolvedora Full-Stack na Eslab</strong>, colaborando no desenvolvimento de plataformas complexas de gestão educacional (EdTech).
+</p>
+
+<p>
+  💻 <strong>Minha Stack e Foco Técnico:</strong>
+</p>
+<ul>
+  <li><strong>Back-End:</strong> Focada no ecossistema <code>.NET (C#)</code>. Domino a construção de APIs RESTful robustas, modelagem de banco de dados e acesso a dados utilizando <code>Entity Framework (EF Core)</code> e <code>Dapper</code>, com forte vivência em <code>PostgreSQL</code> e <code>SQL Server</code>.</li>
+  <li><strong>Front-End:</strong> Desenvolvimento de interfaces reativas, modernas e responsivas utilizando <code>Vue.js 3</code>, <code>Nuxt.js</code> e <code>TypeScript</code>. Utilizo <code>Pinia</code> para gerenciamento de estado e bibliotecas como <code>PrimeVue</code>, <code>DaisyUI</code> e <code>Tailwind CSS</code>.</li>
+  <li><strong>Boas Práticas:</strong> Aplicação de Clean Code, versionamento com Git/GitHub, consumo de APIs complexas e atuação sob metodologias ágeis (Scrum/Kanban).</li>
+</ul>
+
+<p>
+  Meu objetivo é integrar times que valorizem a qualidade técnica e o trabalho colaborativo, entregando soluções de software que unem código limpo, visão de negócio e alta performance. Sigo me especializando continuamente através de formações de alto nível (Balta.io, Vue Expert e Alura).
+</p>
+
+<p>
+  Sinta-se à vontade para se conectar comigo ou me enviar uma mensagem para trocarmos ideias sobre tecnologia, transição de carreira ou novas oportunidades!
+</p>
   
    <br><br>
 
   </div>
 
 <div align="center">
-  
-<h2>Principais Projetos </h1>
-<br> 
+  <h2>Principais Projetos</h2>
+  <br> 
 
-<table border="0">
-  <tr>
-    <td width="300" valign="top">
-      <img src="imagens/giphy.gif" width="300" height="300" style="border-radius: 10px;" alt="Avatar Clarissa">
-    </td>
-    <td valign="top" style="padding-left: 20px;">
-      <br>
-       👾 <strong><a href="https://github.com/ClariCassia/projeto-mvp-daisyui-api-rick-and-morty">projeto-mvp-daisyui-api-rick-and-morty</a></strong><br>
-      <code>Vue.js</code>  <code>Nuxt</code> <code>CSS</code> <code>DaisyUi</code>
-      <br><br>
-      🚀 <strong><a href="https://github.com/ClariCassia/minimal-api-csharp-agendacontatos">Agenda de Contatos (Minimal API)</a></strong><br>
-      <code>C#</code> <code>.NET</code> <code>EF Core</code> <code>Postgres</code>
-      <br><br>
-      💻 <strong><a href="https://github.com/ClariCassia/agenda-contatos-vue">Agenda de Contatos - Vue</a></strong><br>
-      <code>Vue 3</code> <code>TypeScript</code> <code>CSS</code>
-      <br><br>
-      🐉 <strong><a href="https://github.com/ClariCassia/todoList-vue-Eslab">TodoList-vue</a></strong><br>
-      <code>Vue</code> <code>JavaScript</code> <code>Tailwind CSS</code>
-      <br><br>
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <strong>✨ Acesse outros projetos interessantes visitando meus <a href="https://github.com/ClariCassia?tab=repositories">repositórios completos</a>!</strong>
-</p>
-<br> 
+  <table border="0">
+    <tr>
+      <td width="300" valign="top">
+        <img src="imagens/giphy.gif" width="300" height="300" style="border-radius: 10px;" alt="Avatar Clarissa">
+      </td>
+      <td valign="top" style="padding-left: 20px;">
+        <br>
+        ⚙️ <strong><a href="https://github.com/ClariCassia/LibraryCatalogDapper">Library Catalog API</a></strong><br>
+        <code>C#</code> <code>.NET 8</code> <code>Dapper</code> <code>SQLite</code> <code>Swagger</code>
+        <br><br>
+        💻 <strong><a href="https://github.com/ClariCassia/agenda-contatos-vue">Agenda de Contatos - Vue</a></strong><br>
+        <code>Vue 3</code> <code>TypeScript</code> <code>CSS</code>
+        <br><br>
+        🐉 <strong><a href="https://github.com/ClariCassia/todoList-vue-Eslab">TodoList-vue</a></strong><br>
+        <code>Vue 3</code> <code>JavaScript</code> <code>Tailwind CSS</code>
+        <br><br>
+        👾 <strong><a href="https://github.com/ClariCassia/projeto-mvp-daisyui-api-rick-and-morty">MVP API Rick and Morty</a></strong><br>
+        <code>Vue.js</code> <code>Nuxt</code> <code>DaisyUi</code>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+  <p align="center">
+    <strong>✨ Acesse outros projetos interessantes visitando meus <a href="https://github.com/ClariCassia?tab=repositories">repositórios completos</a>!</strong>
+  </p>
+  <br> 
+</div>
 
 <div align="center " gap="3px">
     
