@@ -24,7 +24,7 @@ Na minha vivência prática mais recente, trabalhei no desenvolvimento e sustent
 
 ---
 
-### ⚙️️ Principais Projetos
+###  Principais Projetos
 
 *  **[library-catalog-dapper](https://github.com/ClariCassia/library-catalog-dapper)**: API desenvolvida em C# utilizando Dapper para acesso a dados de alta performance e manipulação em banco de dados.  
   `C#` `Dapper` `SQLite` `WebAPI`
