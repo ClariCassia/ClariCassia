@@ -1,10 +1,10 @@
-# Olá, sou Clarissa de Cássia 👋
+# Olá, sou Clarissa de Cássia 
 
 Desenvolvedora Full Stack com vivência prática no ciclo completo de entrega de software, focada na construção de aplicações escaláveis, performáticas e com arquitetura sustentável.
 
 ---
 
-### 👩‍💻 Sobre Mim
+###  Sobre Mim
 
 Curso o 5º semestre de Análise e Desenvolvimento de Sistemas na UniSociesc. Atuo como Desenvolvedora com foco em Front-End moderno e visão integrada Full Stack, construindo aplicações web que combinam código limpo, componentização escalável, acessibilidade e foco na experiência do usuário.
 
@@ -14,7 +14,7 @@ Na minha vivência prática mais recente, trabalhei no desenvolvimento e sustent
 
 ---
 
-### 💻 Stack & Foco Técnico
+###  Stack & Foco Técnico
 
 * **Back-End:** Especializada em `C# / .NET`. Construção de WebAPIs RESTful, aplicação de SOLID, Clean Code e padrões como Repository Pattern. Persistência e modelagem com `Entity Framework Core` e `Dapper`, além de queries estruturadas em `PostgreSQL` e `SQL Server`.
   
@@ -26,29 +26,29 @@ Na minha vivência prática mais recente, trabalhei no desenvolvimento e sustent
 
 ### ⚙️️ Principais Projetos
 
-* 🚀 **[library-catalog-dapper](https://github.com/ClariCassia/library-catalog-dapper)**: API desenvolvida em C# utilizando Dapper para acesso a dados de alta performance e manipulação em banco de dados.  
+*  **[library-catalog-dapper](https://github.com/ClariCassia/library-catalog-dapper)**: API desenvolvida em C# utilizando Dapper para acesso a dados de alta performance e manipulação em banco de dados.  
   `C#` `Dapper` `SQLite` `WebAPI`
 
-* 📱 **[agenda-contatos-vue-csharp](https://github.com/ClariCassia/agenda-contatos-vue-csharp)**: Aplicação web para gerenciamento de contatos, integrando interface reativa com back-end em C#.  
+*  **[agenda-contatos-vue-csharp](https://github.com/ClariCassia/agenda-contatos-vue-csharp)**: Aplicação web para gerenciamento de contatos, integrando interface reativa com back-end em C#.  
   `Vue.js` `JavaScript` `C#` `CSS`
 
-* ⚡ **[minimal-api-agendacontatos-csharp](https://github.com/ClariCassia/minimal-api-agendacontatos-csharp)**: API construída com C# sob o padrão Minimal API, focada em arquitetura leve, baixo acoplamento e fácil manutenção.  
+*  **[minimal-api-agendacontatos-csharp](https://github.com/ClariCassia/minimal-api-agendacontatos-csharp)**: API construída com C# sob o padrão Minimal API, focada em arquitetura leve, baixo acoplamento e fácil manutenção.  
   `C#` `.NET` `Minimal APIs` `Swagger`
 
-* 📝 **[todoList-vue](https://github.com/ClariCassia/todoList-vue)**: Aplicação de gerenciamento de tarefas orientada a componentes reativos com Vue.js.  
+*  **[todoList-vue](https://github.com/ClariCassia/todoList-vue)**: Aplicação de gerenciamento de tarefas orientada a componentes reativos com Vue.js.  
   `Vue.js` `JavaScript` `Componentização`
 
-* 💡 **[fraseando-devs-react](https://github.com/ClariCassia/fraseando-devs-react)**: Interface interativa desenvolvida com React e TypeScript, gerando frases inspiradoras e de descompressão para pessoas desenvolvedoras.  
+*  **[fraseando-devs-react](https://github.com/ClariCassia/fraseando-devs-react)**: Interface interativa desenvolvida com React e TypeScript, gerando frases inspiradoras e de descompressão para pessoas desenvolvedoras.  
   `React` `TypeScript` `CSS Moderno`
 
-* 🃏 **[projeto-cartas-randon-js](https://github.com/ClariCassia/projeto-cartas-randon-js)**: Aplicação interativa de baralho virtual utilizando manipulação de DOM e lógica em JavaScript moderno.  
+*  **[projeto-cartas-randon-js](https://github.com/ClariCassia/projeto-cartas-randon-js)**: Aplicação interativa de baralho virtual utilizando manipulação de DOM e lógica em JavaScript moderno.  
   `JavaScript` `HTML5` `CSS3`
 
-> ✨ *Confira outros projetos e estudos acessando meus **[repositórios públicos](https://github.com/ClariCassia?tab=repositories)**.*
+>  *Confira outros projetos e estudos acessando meus **[repositórios públicos](https://github.com/ClariCassia?tab=repositories)**.*
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <div align="center">
   <!-- Linguagens & Back-End -->
@@ -86,7 +86,7 @@ Na minha vivência prática mais recente, trabalhei no desenvolvimento e sustent
 
 ---
 
-### 📫 Vamos Conversar?
+###  Vamos Conversar?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/clarissa-cassia-dev-full-stack/" target="_blank">
