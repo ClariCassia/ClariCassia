@@ -48,40 +48,40 @@ Na minha vivência prática mais recente, trabalhei no desenvolvimento e sustent
 
 ---
 
-### Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 <p align="left"><strong>Back-End & Bancos de Dados</strong></p>
 <p align="left">
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>&nbsp;
-  <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img width="30" height="30" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></a>&nbsp;
-  <a href="https://github.com/DapperLib/Dapper" target="_blank"><img width="30" height="30" alt="Dapper" src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" style="border-radius: 4px;" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" /></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/" title=".NET" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" /></a>&nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;
+  <a href="https://www.microsoft.com/pt-br/sql-server" title="SQL Server" target="_blank"><img width="30" height="30" alt="SQL Server" title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></a>&nbsp;
+  <a href="https://github.com/DapperLib/Dapper" title="Dapper" target="_blank"><img width="30" height="30" alt="Dapper" title="Dapper" src="https://api.nuget.org/v3-flatcontainer/dapper/2.1.35/icon" style="border-radius: 4px;" /></a>
 </p>
 
 <p align="left"><strong>Front-End & UI</strong></p>
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&nbsp;
-  <a href="https://vuejs.org/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>&nbsp;
-  <a href="https://nuxt.com/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt.js" /></a>&nbsp;
-  <a href="https://pinia.vuejs.org/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=pinia" alt="Pinia" /></a>&nbsp;
-  <a href="https://react.dev/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=react" alt="React" /></a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>&nbsp;
-  <a href="https://primevue.org/" target="_blank"><img width="30" height="30" alt="PrimeVue" src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primevue-logo-1.png?fit=263%2C300&ssl=1" /></a>&nbsp;
-  <a href="https://daisyui.com/" target="_blank"><img width="30" height="30" alt="DaisyUI" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /></a>&nbsp;
+  <a href="https://vuejs.org/" title="Vue.js" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=vue" alt="Vue.js" title="Vue.js" /></a>&nbsp;
+  <a href="https://nuxt.com/" title="Nuxt.js" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt.js" title="Nuxt.js" /></a>&nbsp;
+  <a href="https://pinia.vuejs.org/" title="Pinia" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=pinia" alt="Pinia" title="Pinia" /></a>&nbsp;
+  <a href="https://react.dev/" title="React" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></a>&nbsp;
+  <a href="https://tailwindcss.com/" title="Tailwind CSS" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;
+  <a href="https://primevue.org/" title="PrimeVue" target="_blank"><img width="30" height="30" alt="PrimeVue" title="PrimeVue" src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2021/10/primevue-logo-1.png?fit=263%2C300&ssl=1" /></a>&nbsp;
+  <a href="https://daisyui.com/" title="DaisyUI" target="_blank"><img width="30" height="30" alt="DaisyUI" title="DaisyUI" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/daisyui-icon.png" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" /></a>
 </p>
 
 <p align="left"><strong>Ferramentas & Fluxo de Trabalho</strong></p>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&nbsp;
-  <a href="https://github.com/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;
-  <a href="https://vitejs.dev/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>&nbsp;
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://git-scm.com/" title="Git" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>&nbsp;
+  <a href="https://github.com/" title="GitHub" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>&nbsp;
+  <a href="https://vitejs.dev/" title="Vite" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/" title="VS Code" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /></a>&nbsp;
+  <a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio" /></a>&nbsp;
+  <a href="https://www.figma.com/" title="Figma" target="_blank"><img width="30" height="30" src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" /></a>
 </p>
 
 ###  Vamos Conversar?
